@@ -38,7 +38,7 @@
                     <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank"><img src="{{ asset('image/lp_gf_1.png') }}" class="wide"></a>
                     <p>今有名雑誌にも掲載されるなど、巷で話題になりつつある在宅スキマバイト。<br>お手持ちのスマホを使って、<span class="red">空いた1時間からお仕事可能</span>なのが魅力。また、しっかり報酬が高いのも特徴。</p>
                     <div class="body-button">
-                        <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                        <a href="https://a-trade.jp/redirect/giftchat?media=G16531" class="btn-square-shadow" target="_blank"><i class="fab fa-apple"></i> お仕事詳細はコチラ <i class="fas fa-arrow-circle-right"></i></a>
                         <p>※<span class="red">専用アプリ内をCHECK</span>して下さい！</p>
                     </div>
                     <br>
