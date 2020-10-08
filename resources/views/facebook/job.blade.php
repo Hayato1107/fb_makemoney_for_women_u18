@@ -15,6 +15,7 @@
         
         <div class="big-body">
             <div class="body-top">
+                <a href="https://a-trade.jp/redirect/giftchat?media=G16531" target="_blank"><img src="{{ asset('image/lp_instagram_job.png') }}" class="wide"></a>
                 <img src="{{ asset('image/jobManga_1.png') }}" class="wide">
                 <img src="{{ asset('image/jobManga_2.png') }}" class="wide">
                 <h1><span>求人見つけたらラッキー!?<br>専用アプリでスキマバイト！</span></h1>
