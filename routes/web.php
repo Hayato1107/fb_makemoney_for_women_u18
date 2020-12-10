@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('app', function () {
+Route::get('app1', function () {
     return view('facebook.check'); //確認用LP
     // return view('facebook.jobo23'); //獲得LP(2)
     
