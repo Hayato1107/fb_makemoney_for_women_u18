@@ -20,7 +20,7 @@ Route::get('info', function () {
 });
 
 // OS識別x遷移 for チャトレ
-Route::get('info', 'AdController@info');
+Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
