@@ -9,13 +9,13 @@
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
-        <a href="./info"><img src="{{ asset('image/header-2-2.png') }}"></a>
+        <a href="./os"><img src="{{ asset('image/header-2-2.png') }}"></a>
         <img src="{{ asset('image/jobManga_1.png') }}">
         <img src="{{ asset('image/jobManga_2.png') }}">
         <div class="white">
-            <a href="./info"><img src="{{ asset('image/lp_instagram_job.png') }}"></a>
+            <a href="./os"><img src="{{ asset('image/lp_instagram_job.png') }}"></a>
             <div class="body-button">
-                <a href="./info" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>※リンク切れの場合、募集停止している場合がございます。</p>
             </div>
             <br>
@@ -23,7 +23,7 @@
             <br>
             <img src="{{ asset('image/campaign.png') }}">
             <div class="body-button">
-                <a href="./info" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="./os" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリはコチラ <i class="fas fa-arrow-circle-right"></i></a>
                 <p>※リンク切れの場合、募集停止している場合がございます。</p>
             </div>
             <br>
