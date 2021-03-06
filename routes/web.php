@@ -13,9 +13,9 @@
 // LP獲得用
 Route::get('info', function () {
     return view('facebook.check'); //確認用LP
-    // return view('facebook.job'); //獲得LP(1) - チャットレディー
-    
     // return view('facebook.pp'); //獲得LP(3) - パパ活LINE誘導
+    
+    // return view('facebook.job'); //獲得LP(1) - チャットレディー
     // return view('facebook.jobo23'); //獲得LP(2)
 });
 
@@ -24,8 +24,8 @@ Route::get('os', 'AdController@os');
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('facebook.job'); //獲得LP(1) - チャットレディー
-    // return view('facebook.pp'); //獲得LP(3) - パパ活LINE誘導
+    return view('facebook.pp'); //獲得LP(3) - パパ活LINE誘導
+    // return view('facebook.job'); //獲得LP(1) - チャットレディー
     
     // return view('facebook.jobo23'); //獲得LP(2)
 });
