@@ -11,7 +11,7 @@
 |
 */
 // LP獲得用
-Route::get('info', function () {
+Route::get('op1', function () {
     return view('facebook.check'); //確認用LP
     // return view('facebook.pp'); //獲得LP(3) - パパ活LINE誘導
     
